@@ -8,5 +8,5 @@ export default defineConfig({
   build: {
     outDir: "./docs",
   },
-  base: "./<REPO>/",
+  base: "/<REPO>/",
 });
